@@ -32,7 +32,7 @@
     }
 
 Esse código, gera o poligono cobrindo todo o território Brasileiro. Depois disso é só salvar o seu arquivo (ou baixar o que tem aqui no repo).
-## Onde colocar o bendito arquivo
+## Onde colocar o arquivo
 Eu tive uma certa dificuldade de encontrar o local para botar esse arquivo, segue o screenshot para ajudar na localização:
 
 1. Clique em App Store
