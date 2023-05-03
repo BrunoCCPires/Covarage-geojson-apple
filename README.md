@@ -1,6 +1,6 @@
 # Solução do erro: ITMS-90117: Missing routing app coverage file: You must upload a routing app coverage file in App Store Connect if you register as a routing app.
 
-- Caso você indique que seu aplicativo usa navegação, a apple vai pedir o arquivo de Coverage. Então você precisa gerar o arquivo para colocar, isso involve criar o poligono e depois formatá-lo.
+- Caso você indique que seu aplicativo usa navegação, a apple vai pedir o arquivo de Coverage. Então você precisa gerar o arquivo para colocar, isso envolve criar o poligono e depois formatá-lo.
 
 - Para salvar sua vida hoje, pode usar o meu poligono que está pronto para todo o território Brasileiro.
 
