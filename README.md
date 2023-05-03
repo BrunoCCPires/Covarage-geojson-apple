@@ -50,7 +50,7 @@ Eu tive uma certa dificuldade de encontrar o local para botar esse arquivo, segu
 2. Documentação apple: https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/LocationAwarenessPG/ProvidingDirections/ProvidingDirections.html
 3. Arquivo [Covarage.geojson ](https://github.com/BrunoCCPires/Covarage-geojson-apple/blob/main/Coverage.geojson "Covarage.geojson ")do Brasil. 
 
-#### Espero que ajude alguém perdido que bateu com o erro ITMS-90117
+## Espero que ajude alguém perdido que bateu com o erro ITMS-90117
 
 Se precisar de ajuda entre em contato. 
 Boa sorte e abraço!
